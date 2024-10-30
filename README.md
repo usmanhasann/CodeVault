@@ -28,7 +28,6 @@ Welcome to **CodeVault**! Your go-to vault for **practical coding career** 📖�
 
 
 
-
 ---
 
 ### 🛠️ **Getting Started**
@@ -39,24 +38,11 @@ Welcome to **CodeVault**! Your go-to vault for **practical coding career** 📖�
    ### 🎓 **Who is CodeVault for?**
 - **Beginners** 🤓 – Start with foundational knowledge.
 - **Developers** 🧑‍💻 – Deepen your skills and explore new areas.
-- **Researchers** 🧠 – Access authoritative books and the latest advancements.
+- **Researchers** 🧠 – Access authoritative contents and the latest advancement
 
----
 
-### 🤝 **Contribute to CodeVault!**
-CodeVault is community-driven, and **we welcome your contributions**! 🛠️  
-- **Suggest new books** 📑
-- **Help organize categories** 🗂️
-- **Report any issues** 🐞
+# *Let’s make CodeVault the ultimate resource for developers everywhere!*
 
-*Let’s make CodeVault the ultimate resource for developers everywhere!*
 
----
-
-### 📫 **Contact Us**
-Have questions or suggestions? Feel free to reach out via [Issues](https://github.com/usmanhasann/CodeVault/issues) or email us at 📧 **support@codevault.com**
-
----
-
-**Happy Exploring!** 📚🌐
+# **Happy Exploring!** 📚🌐
 
