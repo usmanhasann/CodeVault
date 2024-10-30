@@ -4,9 +4,18 @@ Welcome to **CodeVault**! Your go-to vault for **practical coding career** 📖�
 
 
 
+
+
+
+
 ### ✨ **What is CodeVault?**
 > CodeVault is the **most trusted source** 🌍 for Programming related guidance!  
 > With carefully curated content, we provide **top-rated contents** 📈 on programming, algorithms, data science, and more, all at your fingertips 📲.
+
+
+
+
+
 
 ---
 
@@ -15,6 +24,10 @@ Welcome to **CodeVault**! Your go-to vault for **practical coding career** 📖�
 - ⭐ **Top-Rated Content** – Enjoy Courses with high ratings and community recommendations.
 - 🔄 **Constant Updates** – Stay ahead with the newest releases and trending tech topics.
 - 🔍 **Easy Search & Navigation** – Quickly find the exact courses or topic you’re looking for with ease.
+
+
+
+
 
 ---
 
