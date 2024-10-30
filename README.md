@@ -20,7 +20,6 @@ Welcome to **CodeVault**! Your go-to vault for **practical coding career** 📖�
 
 
 
----
 
 ### 🛠️ **Getting Started**
 1. **Clone the repository**  
