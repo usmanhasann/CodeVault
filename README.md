@@ -41,8 +41,8 @@ Welcome to **CodeVault**! Your go-to vault for **practical coding career** 📖�
 - **Researchers** 🧠 – Access authoritative contents and the latest advancement
 
 
-# *Let’s make CodeVault the ultimate resource for developers everywhere!*
+##  *Let’s make CodeVault the ultimate resource for developers everywhere!*
 
 
-# **Happy Exploring!** 📚🌐
+##  **Happy Exploring!** 📚🌐
 
